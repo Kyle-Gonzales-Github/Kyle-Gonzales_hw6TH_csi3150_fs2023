@@ -1,0 +1,27 @@
+#travelListContainer {
+  text-align: center;
+}
+#Tokyo {
+  background-color: turquoise;
+}
+#London {
+  background-color: deepskyblue;
+}
+#SanFrancisco {
+  background-color: antiquewhite;
+}
+#Tokyo img {
+  margin: 100px;
+  width: 300px;
+  height: 300px;
+}
+#London img {
+  margin: 100px;
+  width: 300px;
+  height: 300px;
+}
+#SanFrancisco img {
+  margin: 100px;
+  width: 300px;
+  height: 300px;
+}
